@@ -1,0 +1,29 @@
+# Ignore Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# VS Code settings (keep if safe)
+.vscode/
+!.vscode/settings.json
+
+# Environment files and secrets
+.env
+.env.*
+*.env
+*.env.*
+.envrc
+.env.local
+.tokens
+secrets.*
+
+# Project-specific secrets
+tokens.env
+
+# Jupyter checkpoints and noise
+.ipynb_checkpoints/
+*.ipynb~
+
+# OS files
+.DS_Store
+Thumbs.db

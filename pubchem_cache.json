@@ -1,0 +1,10 @@
+{
+  "paracetamol": {
+    "iupac_name": "N-(4-hydroxyphenyl)acetamide",
+    "inchikey": "RZVAJINKPMORJF-UHFFFAOYSA-N",
+    "smiles": "CC(=O)NC1=CC=C(C=C1)O",
+    "common_name": "acetaminophen",
+    "cid": 1983,
+    "formula": "C8H9NO2"
+  }
+}
